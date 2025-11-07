@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SyncplicityUIFramework")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+53d06bd291a419cb0e193447f360b7ee2812af42")]
 [assembly: System.Reflection.AssemblyProductAttribute("SyncplicityUIFramework")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SyncplicityUIFramework")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
